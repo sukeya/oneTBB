@@ -49,11 +49,11 @@ int main(int argc, char* argv[]) {
     cutoff = argc > 2 ? strtol(argv[2], nullptr, 0) : 16;
     unsigned long ntrial = argc > 3 ? (unsigned long)strtoul(argv[3], nullptr, 0) : 20;
 
-    // auto res = measure(fibonacci_two_tasks, numbers, ntrial);
-    // std::cout << "Fibonacci two tasks impl N = " << res.first << " Avg time = " << res.second << " ms"
-    //           << std::endl;
+    auto res = measure(fibonacci_two_tasks, numbers, ntrial);
+    std::cout << "Fibonacci two tasks impl N = " << res.first << " Avg time = " << res.second << " ms"
+              << std::endl;
 
-    auto res = measure(fibonacci_single_task, numbers, ntrial);
+    res = measure(fibonacci_single_task, numbers, ntrial);
     std::cout << "Fibonacci single task impl N = " << res.first << " Avg time = " << res.second << " ms"
               << std::endl;
 }
