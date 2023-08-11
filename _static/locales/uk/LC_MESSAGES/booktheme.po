@@ -1,0 +1,75 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Sphinx-Book-Theme\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "next page"
+msgstr "Наступна сторінка"
+
+msgid "Print to PDF"
+msgstr "Друк у форматі PDF"
+
+msgid "Sphinx Book Theme"
+msgstr "Тема книги \"Сфінкс\""
+
+msgid "Toggle navigation"
+msgstr "Переключити навігацію"
+
+msgid "Download this page"
+msgstr "Завантажте цю сторінку"
+
+msgid "Open an issue"
+msgstr "Відкрийте випуск"
+
+msgid "Edit this page"
+msgstr "Редагувати цю сторінку"
+
+msgid "Last updated on"
+msgstr "Останнє оновлення:"
+
+msgid "By the"
+msgstr "По"
+
+msgid "Theme by the"
+msgstr "Тема від"
+
+msgid "Fullscreen mode"
+msgstr "Повноекранний режим"
+
+msgid "By"
+msgstr "Автор"
+
+msgid "Download notebook file"
+msgstr "Завантажте файл блокнота"
+
+msgid "open issue"
+msgstr "відкритий випуск"
+
+msgid "suggest edit"
+msgstr "запропонувати редагувати"
+
+msgid "repository"
+msgstr "сховище"
+
+msgid "Launch"
+msgstr "Запуск"
+
+msgid "previous page"
+msgstr "Попередня сторінка"
+
+msgid "Copyright"
+msgstr "Авторське право"
+
+msgid "Source repository"
+msgstr "Джерело сховища"
+
+msgid "Contents"
+msgstr "Зміст"
+
+msgid "Download source file"
+msgstr "Завантажити вихідний файл"
